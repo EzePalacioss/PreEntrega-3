@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(51, 48, 48);
+}
+h1{
+    color: white;
+    text-align: center;
+}
+
+
+.dark-mode{
+    background-color: rgb(45, 42, 42);
+}
+
+.light-mode{
+    background-color: rgb(235, 224, 224);
+}
+
+.light-mode h1{
+    color: black;
+}
+
+a{
+    color: rgb(4, 4, 34);
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.079);
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+button{
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin: 10px;
+}
